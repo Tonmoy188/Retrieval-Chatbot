@@ -2,7 +2,7 @@
 
 # ⟡ RAG Retrieval-Chatbot
 
-### 🚀 [Live Demo](https://your-app.onrender.com)
+
 
 
 A multi-agent AI pipeline that ingests your documents, indexes them into a semantic vector database, and retrieves precise context in real time — delivering grounded answers with zero hallucination and zero manual prompt engineering.
