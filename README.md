@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⟡ RAG Knowledge Assistant
+# ⟡ RAG Retrieval-Chatbot
 
 ### 🚀 [Live Demo](https://your-app.onrender.com)
 
