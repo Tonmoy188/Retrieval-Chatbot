@@ -391,4 +391,4 @@ if __name__ == "__main__":
     print(f"   Model : {FEATHERLESS_MODEL}")
     print(f"   DB    : {CHROMA_PATH}/\n")
     app.queue()
-    app.launch(server_name="0.0.0.0", server_port=7860, inbrowser=True, css=CSS)
+    app.launch(server_name="0.0.0.0", server_port=int(os.environ.get("PORT", 7860)), inbrowser=False, css=CSS)
