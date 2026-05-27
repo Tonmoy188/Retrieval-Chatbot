@@ -1,0 +1,11 @@
+langchain_community
+langchain_text_splitters
+langchain_chroma
+langchain_huggingface
+gradio==4.44.1
+python-dotenv
+pypdf
+python-docx
+openai
+sentence-transformers
+chromadb
